@@ -1,0 +1,7 @@
+{
+  "name": "RoskildeTouR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
